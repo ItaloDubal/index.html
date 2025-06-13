@@ -23,6 +23,10 @@ header {
   
 }
 
+a:hover{
+  opacity: 0.6;
+}
+
 .button-header {
   background: #665AE1;
   border-radius: 20.5px;
@@ -34,6 +38,14 @@ header {
   line-height: 29px;
   color: #ffffff;
   cursor: pointer;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+button:active {
+  opacity: 0.5;
 }
 
 .logo-image {
