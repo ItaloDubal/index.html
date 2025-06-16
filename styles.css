@@ -24,7 +24,7 @@ header {
 }
 
 a:hover{
-  opacity: 0.6;
+  opacity: .6;
 }
 
 .button-header {
@@ -41,11 +41,11 @@ a:hover{
 }
 
 button:hover {
-  opacity: 0.8;
+  opacity: .8;
 }
 
 button:active {
-  opacity: 0.5;
+  opacity: .5;
 }
 
 .logo-image {
